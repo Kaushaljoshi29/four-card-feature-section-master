@@ -51,12 +51,12 @@ Learned how to implement mobile first layout and then use grid to make in respon
 
 ### Continued development
 
-Will continue to explore mobile first desing
+Will continue to explore mobile first design
 
 
 ### Useful resources
 
-- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/) - Useful in resetting the default CSS.
+- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/) - Useful in resetting the default styles.
 
 ## Author
 
