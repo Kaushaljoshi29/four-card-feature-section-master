@@ -183,7 +183,7 @@ header p {
   display: flex;
   flex-direction: column;
   background-color: #fff;
-  padding: 1em;
+  padding: 1.5em;
   margin-bottom: 1.5em;
   min-height: 180px;
   height: max-content;
