@@ -275,7 +275,7 @@ header p {
     grid-template-areas:
       "supervisor team calculator"
       "supervisor karma calculator";
-    gap: 1.8em;
+    gap: 2em;
   }
   .Supervisor-card {
     grid-area: supervisor;
