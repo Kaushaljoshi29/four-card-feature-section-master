@@ -1,3 +1,5 @@
+/*CSS Reset start*/
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -127,6 +129,8 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/*CSS Reset end*/
 
 :root {
   --Red: hsl(0, 78%, 62%);
@@ -271,7 +275,7 @@ header p {
     grid-template-areas:
       "supervisor team calculator"
       "supervisor karma calculator";
-    gap: 1.5em;
+    gap: 1.8em;
   }
   .Supervisor-card {
     grid-area: supervisor;
